@@ -1,0 +1,13 @@
+@import "../../styles/index";
+
+.base {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+
+  .notice {
+    margin: 0 15px;
+    @include paragraph();
+  }
+}

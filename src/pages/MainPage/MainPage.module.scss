@@ -1,0 +1,8 @@
+@import "../../styles/index";
+
+.base{
+
+	.title{
+		@include header()
+	}
+}

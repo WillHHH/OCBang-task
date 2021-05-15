@@ -1,0 +1,41 @@
+@mixin type-scale(
+  $font-size,
+  $font-size-mobile: $font-size,
+  $font-size-tablet: $font-size,
+  $font-size-large: $font-size
+) {
+  font-size: $font-size-mobile;
+
+  @include media($min-sm) {
+    font-size: $font-size-tablet;
+  }
+
+  @include media($min-md) {
+    font-size: $font-size;
+  }
+
+  @include media($min-lg) {
+    font-size: $font-size-large;
+  }
+}
+
+@mixin leading-scale(
+  $line-height,
+  $line-height-mobile: $line-height,
+  $line-height-tablet: $line-height,
+  $line-height-large: $line-height
+) {
+  line-height: $line-height-mobile;
+
+  @include media($min-sm) {
+    line-height: $line-height-tablet;
+  }
+
+  @include media($min-md) {
+    line-height: $line-height;
+  }
+
+  @include media($min-lg) {
+    line-height: $line-height-large;
+  }
+}

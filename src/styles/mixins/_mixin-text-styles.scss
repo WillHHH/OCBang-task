@@ -1,0 +1,13 @@
+@mixin header() {
+  @include type-scale(36px, 26px);
+  @include leading-scale(44px, 30px);
+  font-weight: 600;
+  font-family: $base-font-family;
+}
+
+@mixin paragraph() {
+  @include type-scale(16px, 14px);
+  @include leading-scale(24px, 22px);
+  font-weight: 400;
+  font-family: $base-font-family;
+}

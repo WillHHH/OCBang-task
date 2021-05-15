@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1",
+    "talentName": "Alena Prokharchyk",
+    "location": "San Francisco Bay Area",
+    "seniority": "011_Staff",
+    "techStack": "DevOps & SRE & QA",
+    "iom": "IC",
+    "email": "aalena1108@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/alena-prokharchyk-a7b28213"
+  },
+  {
+    "id": "2",
+    "talentName": "Frank Doepke",
+    "location": "San Francisco Bay Area",
+    "seniority": "011_Staff",
+    "techStack": "Computer Vision",
+    "iom": "IC",
+    "email": "bfdfdoepke@apple.com",
+    "linkedInUrl": "https://www.linkedin.com/in/frankdoepke"
+  },
+  {
+    "id": "3",
+    "talentName": "Xun Kang",
+    "location": "Big Seattle Area",
+    "seniority": "011_Staff",
+    "techStack": "Systems & Networking",
+    "iom": "IC",
+    "email": "dfkxun2002@hotmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/xun-kang-6570534"
+  },
+  {
+    "id": "4",
+    "talentName": "Manoj Goyal",
+    "location": "San Francisco Bay Area",
+    "seniority": "011_Staff",
+    "techStack": "Systems & Networking",
+    "iom": "IC",
+    "email": "xgl_manoj@yahoo.com",
+    "linkedInUrl": "https://www.linkedin.com/in/glmanoj"
+  },
+  {
+    "id": "5",
+    "talentName": "Carl Norum",
+    "location": "San Francisco Bay Area",
+    "seniority": "011_Staff",
+    "techStack": "Systems & Networking",
+    "iom": "IC",
+    "email": "wcnorum@google.com",
+    "linkedInUrl": "https://www.linkedin.com/in/carlnorum"
+  },
+  {
+    "id": "6",
+    "talentName": "Mark Mims",
+    "location": "Big Austin Area",
+    "seniority": "011_Staff",
+    "techStack": "Solution Engineer",
+    "iom": "IC",
+    "email": "cvmark.mims@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/markmmims"
+  },
+  {
+    "id": "7",
+    "talentName": "Cameron Milne",
+    "location": "San Francisco Bay Area",
+    "seniority": "011_Staff",
+    "techStack": "Fullstack",
+    "iom": "IC",
+    "email": "f2cameron@catheandcameron.com",
+    "linkedInUrl": "https://www.linkedin.com/in/cameron-milne-00164a"
+  },
+  {
+    "id": "8",
+    "talentName": "Richard Maher",
+    "location": "San Francisco Bay Area",
+    "seniority": "011_Staff",
+    "techStack": "Systems & Networking",
+    "iom": "IC",
+    "email": "dfrmaher@google.com",
+    "linkedInUrl": "https://www.linkedin.com/in/richard-maher-78567513"
+  },
+  {
+    "id": "9",
+    "talentName": "Moe Tabar",
+    "location": "San Francisco Bay Area",
+    "seniority": "011_Staff",
+    "techStack": "Software Engineer",
+    "iom": "IC",
+    "email": "sm.aghatabar@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/moe-tabar-04637110"
+  },
+  {
+    "id": "10",
+    "talentName": "Alessandro Bahgat Shehata",
+    "location": "Big Austin Area",
+    "seniority": "011_Staff",
+    "techStack": "Fullstack",
+    "iom": "IC",
+    "email": "wabahgat@google.com",
+    "linkedInUrl": "https://www.linkedin.com/in/abahgat"
+  },
+  {
+    "id": "11",
+    "talentName": "Xi Wu",
+    "location": "Big Austin Area",
+    "seniority": "011_Staff",
+    "techStack": "Security & Privacy",
+    "iom": "IC",
+    "email": "cvxiwu@google.com",
+    "linkedInUrl": "https://www.linkedin.com/in/xi-wu-00300397"
+  },
+  {
+    "id": "12",
+    "talentName": "Darren Lee",
+    "location": "San Francisco Bay Area",
+    "seniority": "021_Sr Staff",
+    "techStack": "Backend",
+    "iom": "IC",
+    "email": "sdarren804@yahoo.com",
+    "linkedInUrl": "https://www.linkedin.com/in/darrenslee"
+  },
+  {
+    "id": "13",
+    "talentName": "Manadher Kharroubi",
+    "location": "San Francisco Bay Area",
+    "seniority": "011_Staff",
+    "techStack": "Systems & Networking",
+    "iom": "IC",
+    "email": "dfmanadher@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/manadher"
+  },
+  {
+    "id": "14",
+    "talentName": "Prashanth Kumar",
+    "location": "San Francisco Bay Area",
+    "seniority": "021_Sr Staff",
+    "techStack": "Systems & Networking",
+    "iom": "IC",
+    "email": "cvprash7468@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/prashanthmp"
+  },
+  {
+    "id": "15",
+    "talentName": "Srinivasulu Punuru",
+    "location": "San Francisco Bay Area",
+    "seniority": "021_Sr Staff",
+    "techStack": "Systems & Networking",
+    "iom": "IC",
+    "email": "ssrinivasulu@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/srinipunuru"
+  },
+  {
+    "id": "16",
+    "talentName": "Hong Tam",
+    "location": "San Francisco Bay Area",
+    "seniority": "011_Staff",
+    "techStack": "Backend",
+    "iom": "IC",
+    "email": "dsafhtam@linkedin.com",
+    "linkedInUrl": "https://www.linkedin.com/in/hongtam"
+  },
+  {
+    "id": "17",
+    "talentName": "Sarah Ahmed",
+    "location": "Big Austin Area",
+    "seniority": "011_Staff",
+    "techStack": "Fullstack",
+    "iom": "IC",
+    "email": "ssarahahmeds@hotmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/sarah-ahmed-7467691b"
+  },
+  {
+    "id": "18",
+    "talentName": "Rami Krispin",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Data Science",
+    "iom": "Management",
+    "email": "cvrami.krispin@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/rami-krispin"
+  },
+  {
+    "id": "19",
+    "talentName": "WEI LIN",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "IC Design",
+    "iom": "Management",
+    "email": "dfalinkerlate@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/wei-lin-96b6a4a"
+  },
+  {
+    "id": "20",
+    "talentName": "Prashant Mehta",
+    "location": "San Francisco Bay Area",
+    "seniority": "022_Sr Manager",
+    "techStack": "Data Science",
+    "iom": "Management",
+    "email": "cvprashant.amigo@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/prashantmehta0"
+  },
+  {
+    "id": "21",
+    "talentName": "Rahul Singh",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Security & Privacy",
+    "iom": "Management",
+    "email": "dfrahulnsingh@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/rahulnarayansingh"
+  },
+  {
+    "id": "22",
+    "talentName": "Bowen Li",
+    "location": "Big Seattle Area",
+    "seniority": "012_Manager",
+    "techStack": "Data Engineer",
+    "iom": "Management",
+    "email": "dsbowenli@apple.com",
+    "linkedInUrl": "https://www.linkedin.com/in/bowenli86"
+  },
+  {
+    "id": "23",
+    "talentName": "Seaver Ren",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "NLP",
+    "iom": "Management",
+    "email": "wseaverr@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/seaverren"
+  },
+  {
+    "id": "24",
+    "talentName": "Sasha Kasas",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Data Science",
+    "iom": "Management",
+    "email": "kisasha.kasas@pyriax.com",
+    "linkedInUrl": "https://www.linkedin.com/in/sashakasas"
+  },
+  {
+    "id": "25",
+    "talentName": "Carl Forrest",
+    "location": "Big Austin Area",
+    "seniority": "012_Manager",
+    "techStack": "Data Science",
+    "iom": "Management",
+    "email": "dcarl.forrest@me.com",
+    "linkedInUrl": "https://www.linkedin.com/in/cforrest2"
+  },
+  {
+    "id": "26",
+    "talentName": "Ye Li",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Hardware Dev",
+    "iom": "Management",
+    "email": "gpushyeli07@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/ye-li-72284137"
+  },
+  {
+    "id": "27",
+    "talentName": "Anurag Bhardwaj",
+    "location": "San Francisco Bay Area",
+    "seniority": "022_Sr Manager",
+    "techStack": "Computer Vision",
+    "iom": "Management",
+    "email": "wrushtoanuragin@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/anuragbhardwaj"
+  },
+  {
+    "id": "28",
+    "talentName": "Bruno Sommer",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Game Dev",
+    "iom": "Management",
+    "email": "dsommerbr@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/brunosommer"
+  },
+  {
+    "id": "29",
+    "talentName": "Kexin Ma",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Systems & Networking",
+    "iom": "Management",
+    "email": "wmakexin314@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/kexin-ma-5a40aa100"
+  },
+  {
+    "id": "30",
+    "talentName": "Rohit Mundra",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Machine Learning",
+    "iom": "Management",
+    "email": "xrohitm92@hotmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/rohit-mundra"
+  },
+  {
+    "id": "31",
+    "talentName": "Justin Hink",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Security & Privacy",
+    "iom": "Management",
+    "email": "hjhink7@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/justin-hink-39002282"
+  },
+  {
+    "id": "32",
+    "talentName": "Mahesh Molakalapalli",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Data Engineer",
+    "iom": "Management",
+    "email": "ymolakal9@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/molakal9"
+  },
+  {
+    "id": "33",
+    "talentName": "Matthieu Lucas",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "MobileAPP Dev",
+    "iom": "Management",
+    "email": "elucasmatthieu@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/matthieulucas1"
+  },
+  {
+    "id": "34",
+    "talentName": "Adam Kriegel",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Speech & Audio",
+    "iom": "Management",
+    "email": "jadamofkriegel@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/adam-kriegel-47a5a854"
+  },
+  {
+    "id": "35",
+    "talentName": "Vijay R",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Backend",
+    "iom": "Management",
+    "email": "sfvijayr.krishnan@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/vijaykrishnanr"
+  },
+  {
+    "id": "36",
+    "talentName": "Ahmed Muaydh",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Frontend",
+    "iom": "Management",
+    "email": "xahmedm1@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/muaydh"
+  },
+  {
+    "id": "37",
+    "talentName": "Yatish Patel",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Backend",
+    "iom": "Management",
+    "email": "scontactyatish@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/yatish-patel-66772417"
+  },
+  {
+    "id": "38",
+    "talentName": "Srikanth Mallu",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "DevOps & SRE & QA",
+    "iom": "Management",
+    "email": "srikanth.mallu@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/srikanth-mallu-5058281"
+  },
+  {
+    "id": "39",
+    "talentName": "Rajesh Gandhi",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Systems & Networking",
+    "iom": "Management",
+    "email": "xrgand1582@yahoo.com",
+    "linkedInUrl": "https://www.linkedin.com/in/rajesh-gandhi-322346"
+  },
+  {
+    "id": "40",
+    "talentName": "Rajvenesh Panjolia",
+    "location": "Big Austin Area",
+    "seniority": "012_Manager",
+    "techStack": "Data Science",
+    "iom": "Management",
+    "email": "frajvenesh@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/rajvenesh-panjolia"
+  },
+  {
+    "id": "41",
+    "talentName": "Ravi Sharma",
+    "location": "San Francisco Bay Area",
+    "seniority": "022_Sr Manager",
+    "techStack": "Data Engineer",
+    "iom": "Management",
+    "email": "srsharma@apple.com",
+    "linkedInUrl": "https://www.linkedin.com/in/ravisharma999"
+  },
+  {
+    "id": "42",
+    "talentName": "Tom Salter",
+    "location": "San Francisco Bay Area",
+    "seniority": "012_Manager",
+    "techStack": "Computer Graphics & XR",
+    "iom": "Management",
+    "email": "wrwrtsalter@apple.com",
+    "linkedInUrl": "https://www.linkedin.com/in/tom-salter-4243152"
+  },
+  {
+    "id": "43",
+    "talentName": "Yanghai Tsin",
+    "location": "San Francisco Bay Area",
+    "seniority": "022_Sr Manager",
+    "techStack": "Computer Vision",
+    "iom": "Management",
+    "email": "sfyanghai.tsin@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/yanghai-tsin-64b92a5"
+  },
+  {
+    "id": "44",
+    "talentName": "Gopi Koneru",
+    "location": "Big Austin Area",
+    "seniority": "012_Manager",
+    "techStack": "Hardware Dev",
+    "iom": "Management",
+    "email": "lgopikrishnakoneru@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/gopi-krishna-koneru-9702b71a"
+  },
+  {
+    "id": "45",
+    "talentName": "Ronny Bjarnason",
+    "location": "Big Austin Area",
+    "seniority": "012_Manager",
+    "techStack": "Machine Learning",
+    "iom": "Management",
+    "email": "drbjarnason@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/ronnybjarnason"
+  }
+]

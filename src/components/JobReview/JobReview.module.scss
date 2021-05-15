@@ -1,0 +1,19 @@
+@import "../../styles/index";
+
+.base {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+
+  @include media($max-xs) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+}

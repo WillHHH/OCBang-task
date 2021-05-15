@@ -1,0 +1,14 @@
+@import "../../styles/index";
+
+.base {
+  //Antd css overrides
+  :global .ant-table-tbody {
+    .link,
+    .matched,
+    .email {
+      text-decoration: underline;
+      font-weight: 500;
+      color: #1890ff;
+    }
+  }
+}
